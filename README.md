@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/75779174?v=4" alt="skenSMasteR" width="200" height="200" style="border-radius: 50%;">
 </p>
 <h1 align="center">Hi 👋, I'm SkenS</h1>
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=skensmaster&label=Profile%20views&color=0e75b6&style=flat" alt="skensmaster" />
 </p></p>
 <table>
