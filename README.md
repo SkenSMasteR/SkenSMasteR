@@ -15,8 +15,3 @@
     </td>
   </tr>
 </table>
-
-```text
-💻 Operating Systems:
-Linux (omarchy)                         █████████████████████████   100.0%
-```
