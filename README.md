@@ -15,3 +15,5 @@
     </td>
   </tr>
 </table>
+
+Public key: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINCcziVLfyUqKtZaoBznH+XnjQQRNGtW9QqR42CBIbxP`
